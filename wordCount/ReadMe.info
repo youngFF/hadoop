@@ -1,0 +1,5 @@
+hadproject:
+
+    这个项目演示了用intellij idea运行hadoop的例子（注意：别忘了job.waitForCompletion(true)）
+
+    从单机，到作业打包提交到集群上的集中情况。

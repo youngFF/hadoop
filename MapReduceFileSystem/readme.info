@@ -1,0 +1,4 @@
+project:
+
+    target：熟悉hdfs的文件系统
+    尝试用代码和hdfs系统进行交互
