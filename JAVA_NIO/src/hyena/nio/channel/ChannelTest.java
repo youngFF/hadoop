@@ -35,6 +35,7 @@ public class ChannelTest {
             byteBuffer = ByteBuffer.allocate(_1MB);
             System.out.println(System.currentTimeMillis());
         } catch (OutOfMemoryError error) {
+            // throw runtimeException
             throw new RuntimeException("convert OutOfMeoryError to RuntimeException") ;
         }
 

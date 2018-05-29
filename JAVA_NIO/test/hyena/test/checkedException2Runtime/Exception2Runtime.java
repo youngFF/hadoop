@@ -1,6 +1,5 @@
 package hyena.test.checkedException2Runtime;
 
-import io.netty.channel.ChannelException;
 import org.junit.Test;
 
 import java.io.File;

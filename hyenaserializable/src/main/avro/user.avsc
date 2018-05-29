@@ -1,0 +1,10 @@
+{"namespace": "com.yang.test.bean",
+"type": "record",
+"name": "User",
+"fields": [
+    {"name": "name" , "type": "string"},
+    {"name": "age" , "type": ["int","null"]},
+    {"name": "hobby", "type": ["string","null"]}
+]
+
+}
